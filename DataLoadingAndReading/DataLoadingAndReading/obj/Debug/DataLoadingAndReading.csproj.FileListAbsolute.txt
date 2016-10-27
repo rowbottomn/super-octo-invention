@@ -7,3 +7,12 @@ C:\Users\rowbottomn\Documents\GitHub\DataLoadingAndReading\DataLoadingAndReading
 C:\Users\rowbottomn\Documents\GitHub\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.exe
 C:\Users\rowbottomn\Documents\GitHub\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.pdb
 C:\Users\rowbottomn\Documents\GitHub\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.Main_Form.resources
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\bin\Debug\DataLoadingAndReading.exe.config
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.exe
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.pdb
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\bin\Debug\DataLoadingAndReading.exe
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\bin\Debug\DataLoadingAndReading.pdb
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.csprojResolveAssemblyReference.cache
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.Main_Form.resources
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.Properties.Resources.resources
+C:\Users\rowbottomn\Source\Repos\super-octo-invention\DataLoadingAndReading\DataLoadingAndReading\obj\Debug\DataLoadingAndReading.csproj.GenerateResource.Cache
