@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.t_header = new System.Windows.Forms.TextBox();
             this.b_loadData = new System.Windows.Forms.Button();
             this.l_startVal = new System.Windows.Forms.Label();
@@ -46,6 +47,8 @@
             this.t_voter = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.n_start)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.n_numLines)).BeginInit();
             this.SuspendLayout();
@@ -238,6 +241,19 @@
             this.label2.TabIndex = 19;
             this.label2.Text = "Voter";
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(818, 24);
+            this.menuStrip1.TabIndex = 20;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
             // Main_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -261,6 +277,8 @@
             this.Controls.Add(this.l_startVal);
             this.Controls.Add(this.b_loadData);
             this.Controls.Add(this.t_header);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Main_Form";
             this.Text = "Data Loader";
             ((System.ComponentModel.ISupportInitialize)(this.n_start)).EndInit();
@@ -295,6 +313,8 @@
         private System.Windows.Forms.TextBox t_voter;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
     }
 }
 

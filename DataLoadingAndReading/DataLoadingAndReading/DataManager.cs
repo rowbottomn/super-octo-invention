@@ -72,7 +72,10 @@ namespace DataLoadingAndReading
             box.Clear();
             for (int i = 0; i < data.Length; i++)
             {
-                box.AppendText(data[i]);
+                if (data[i] != null)
+                {
+                    box.AppendText(data[i]);
+                }
             }
         }
 
@@ -88,7 +91,10 @@ namespace DataLoadingAndReading
             }
             for (; i < data.Length; i++)
             {
-                listBox.Items.Add(data[i]);
+                if (data[i] != null)
+                {
+                    listBox.Items.Add(data[i]);
+                }
             }
             return header;
         }
@@ -99,7 +105,10 @@ namespace DataLoadingAndReading
 
             foreach (string d in data)
             {
-               writer.WriteLine(d);
+                if (d != null)
+                {
+                    writer.WriteLine(d);
+                }
             }
 
             writer.Close();
